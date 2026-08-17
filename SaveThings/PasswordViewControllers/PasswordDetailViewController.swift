@@ -305,6 +305,7 @@ class PasswordDetailViewController: UIViewController {
         
         self.titleTextField.rightView = logoRightViewWithPadding
         self.titleTextField.rightViewMode = .always
+        
     }
     
 }
